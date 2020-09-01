@@ -1,11 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Tue Sep  1 00:28:36 2020
-
-@author: DELL
-"""
-
-
 from flask import Flask, render_template, request
 import jsonify
 import requests
